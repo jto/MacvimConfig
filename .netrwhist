@@ -1,7 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/Volumes/Work/Zenexity/MontpellierJUG/Jug/app/views'
-let g:netrw_dirhist_2='/Volumes/Work/Zenexity/MontpellierJUG/Jug/app/views/Application'
-let g:netrw_dirhist_3='/Volumes/Work/Zenexity/MontpellierJUG/Jug'
-let g:netrw_dirhist_4='/Volumes/Work/Zenexity/MontpellierJUG/Jug/app'
-let g:netrw_dirhist_5='/Volumes/Work/Zenexity/MontpellierJUG/Jug/app/controllers'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/jto/MacvimConfig/nerdtree'
+let g:netrw_dirhist_2='/Users/jto/MacvimConfig/nerdtree/nerdtree_plugin'
+let g:netrw_dirhist_3='/Users/jto'
+let g:netrw_dirhist_4='/Users/jto/MacvimConfig'
+let g:netrw_dirhist_5='/Users/jto/MacvimConfig/nerdtree'
+let g:netrw_dirhist_6='/Users/jto/MacvimConfig/nerdtree/doc'
+let g:netrw_dirhist_7='/Users/jto/MacvimConfig'
+let g:netrw_dirhist_8='/Users/jto/Documents/zenexity/POC_foyer/Foyer/wartis'

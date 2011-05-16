@@ -1,5 +1,10 @@
 let mapleader="@"
 
+set runtimepath+=$HOME/.vim/nerdtree
+
+"change default font to Monaco
+set guifont=Monaco:h12
+
 " Shortcut to quickly toggle `set list`
 nmap <leader>l :set list!<CR>
 
